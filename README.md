@@ -10,7 +10,14 @@ This notebook demonstrates:
 - Training simple deep learning models using Keras/TensorFlow.
 - Visualizing model performance and metrics.
 
-This is a great starting point for anyone who wants to train models on their own datasets instead of standard ones like MNIST or CIFAR.
+## 🧠 Technologies Used
+Python
+
+PyTorch
+
+Numpy / Pandas
+
+Matplotli
 
 ## 🚀 Getting Started
 
@@ -23,11 +30,4 @@ To run the notebook locally:
 ```
 
 
-##🧠 Technologies Used
-Python
 
-PyTorch
-
-Numpy / Pandas
-
-Matplotlib
