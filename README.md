@@ -27,7 +27,6 @@ To run the notebook locally:
    ```bash
    git clone https://github.com/sai-bharghav/Deep-Learning.git
    cd Deep-Learning
-```
 
 
 
